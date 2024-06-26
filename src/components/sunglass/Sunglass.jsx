@@ -1,7 +1,7 @@
 
 
 import Watch from '../watch/Watch';
-import './sunglass.css';
+import './Sunglass.css'
 import add from '../../utils/Calculate';
 
 // import {add} from '../../utils/Calculate';
@@ -15,6 +15,8 @@ const Sunglass = () => {
 
     return (
         <div>
+            <h1>Sunglass</h1>
+            <h3>Sum: {sum}</h3>
             <Watch></Watch>
         </div>
     );

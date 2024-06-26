@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Rolex Submariner",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "Omega Speedmaster Moonwatch",
+      "price": 7000
+    },
+    {
+      "id": 3,
+      "name": "Seiko Prospex Marinemaster",
+      "price": 3000
+    },
+    {
+      "id": 4,
+      "name": "Casio G-Shock GWG-1000",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch Series 8",
+      "price": 400
+    }
+  ]
